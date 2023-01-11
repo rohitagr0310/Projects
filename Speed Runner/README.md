@@ -1,5 +1,7 @@
    ----------------------   Speed Runner   ----------------------   
-![Game Logo](https://github.com/rohitagr0310/Projects/blob/main/Speed%20Runner/resources/graphics/Player/player_stand.png)
+<p align="center">
+  <img src="https://github.com/rohitagr0310/Projects/blob/main/Speed%20Runner/resources/graphics/Player/player_stand.png">
+</p>
 
 Have you ever played the Chrome offline game, then you are going to like this one
 
