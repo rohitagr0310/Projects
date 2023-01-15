@@ -24,4 +24,4 @@ with your friends on who is the best at it
 <h2>Way to install</h2>
 <p> </p>
 
-the project is still in development and testing phase
+the project is still in development and testing phase and is expected to be completed as soon as possible
